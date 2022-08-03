@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata:Metadata xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:metadata="http://www.polarsys.org/kitalpha/ad/metadata/1.0.0" id="_AbjSoAGFEeudzLkwJGdbsQ">
+  <viewpointReferences id="_AbyjMAGFEeudzLkwJGdbsQ" vpId="org.polarsys.capella.core.viewpoint" version="1.4.0"/>
+  <viewpointReferences id="__9ShIAG3EeudzLkwJGdbsQ" vpId="org.polarsys.kitalpha.vp.requirements" version="0.11.0"/>
+  <viewpointReferences id="_ADw8kAG4EeudzLkwJGdbsQ" vpId="org.polarsys.capella.vp.requirements" version="0.11.0"/>
+  <viewpointReferences id="_PHY0kIKgEeuuheWQW2sOrA" vpId="fr.obeo.plm.vp.smw" version="5.1.0"/>
+  <additionalMetadata href="../Lib-Battery%20Packs/Lib-Battery%20Packs.afm#_j6EMAAMtEeudzLkwJGdbsQ"/>
+</metadata:Metadata>
